@@ -1,0 +1,2 @@
+"Dataset","Comparison","Samples","Sucrose_samples","Palatinose_samples","Probes_tested","FDR_significant","SOCS2_ProbeID","SOCS2_logFC","SOCS2_raw_p","SOCS2_adjusted_p"
+"GSE54723","Palatinose vs Sucrose",14,7,7,25697,0,"ILMN_2628178",-1.13435261049184,0.00516077031014992,0.744516607893813
