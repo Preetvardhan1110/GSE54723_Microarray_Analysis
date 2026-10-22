@@ -1,0 +1,21 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project-specific user state
+.Rproj.user/
+
+# Operating-system clutter
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Temporary and backup files
+*.tmp
+*.bak
+*~
+
+# Do not commit local secrets
+.env
+.env.*
